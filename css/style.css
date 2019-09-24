@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background: #000000;
+    border-radius: 7px;
+}
+
+#player-container{
+    max-width: 90%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#player-title{
+    padding: 5px;
+}
+
+#player-animation > img{
+    height: 75px;
+    
+}
+
+#player-controls{
+
+}
+#playerHTML5{
+    width: 100%;
+}
